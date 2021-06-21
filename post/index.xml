@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pyxl Design with Hugo</title>
+    <link>https://hugo.pyxldesign.com/post/</link>
+    <description>Recent content in Posts on Pyxl Design with Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo.pyxldesign.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yummy green pickles</title>
+      <link>https://hugo.pyxldesign.com/post/yummy-green-green-pickles/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo.pyxldesign.com/post/yummy-green-green-pickles/</guid>
+      <description>My First Image is here What do you think?
+ </description>
+    </item>
+    
+  </channel>
+</rss>
